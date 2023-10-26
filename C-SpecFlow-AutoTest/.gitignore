@@ -1,0 +1,9 @@
+.vs/
+*/Report/
+*.dll
+*.cache
+*.pdb
+*/Report/
+*.dll.*
+*.html
+*.exe
